@@ -1,4 +1,4 @@
-﻿namespace TestGtiHub
+﻿namespace TestGitHub
 {
     internal class Program
     {
